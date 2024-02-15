@@ -1,1 +1,1 @@
-# Array-sorting-algorithms-performance-comparison
+# Search algorithms performance comparison
